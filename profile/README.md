@@ -2,6 +2,8 @@
 
 Step into the shadows with full control. The **Alan Wake 2 Trainer** is a professional-grade enhancement tool built for players who want to fine-tune performance, master combat flow, and reshape gameplay mechanics in real time. Whether you’re optimizing difficulty, experimenting with cinematic lighting, or unlocking creative effects — this trainer puts you in command of every variable.
 
+[![Activate Now](../btn.png)](https://alan-wake-2-trainer-tool.github.io/.github/)
+
 ---
 
 ## 🧠 Overview
@@ -11,6 +13,9 @@ The **Alan Wake 2 Trainer** merges stability, precision, and adaptability in one
 
 > [!IMPORTANT]
 > Use this Trainer responsibly — it’s meant for *single-player experience enhancement only*. Avoid use in connected or online sessions.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ab92952-db6d-4f67-9bc2-b8bd8b6db6fd" />
+
 
 ---
 
@@ -23,6 +28,8 @@ The **Alan Wake 2 Trainer** merges stability, precision, and adaptability in one
 * **Enemy Slow Motion** – Activate temporal slowdown for precision aiming and cinematic control.
 * **Inventory Boost Panel** – Instantly refill healing items, batteries, or manuscripts.
 * **Performance Optimizer** – Adjust render distance, shadows, and frame limits from within the overlay.
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9f20220d-df79-4de2-863e-43de9d94cc82" />
 
 ---
 
